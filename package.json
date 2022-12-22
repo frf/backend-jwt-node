@@ -34,7 +34,7 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.16.3",
-    "jsonwebtoken": "^8.3.0",
+    "jsonwebtoken": "^9.0.0",
     "nodemon": "^1.19.3"
   }
 }
